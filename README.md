@@ -1,4 +1,4 @@
-# Dinesh Dhanseelan — Data Analytics Portfolio
+# Dinesh Dhanseelan — Data Analytics 
 
 Welcome to my portfolio showcasing data analytics, business intelligence dashboards, and machine learning projects.
 
