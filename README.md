@@ -12,6 +12,7 @@ Background in software testing with a strong interest in using data to solve bus
 - Python
 - SQL
 - Tableau
+- Power BI
 - R
 - Machine Learning
 - Data Visualization
