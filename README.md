@@ -39,7 +39,7 @@ Repository: Coming Soon
 Analyzed customer data to understand and predict the probability of customers subscribing to a term deposit product.
 
 **Tech Stack**
-Python, Logistic Regression, Data Analysis
+R, Logistic Regression, Data Analysis
 
 **Focus**
 Customer behaviour analysis, classification models, marketing analytics
